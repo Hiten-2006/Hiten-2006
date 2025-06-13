@@ -30,7 +30,7 @@
 ---
 
 ### 📫 Connect With Me
-- 📧 Email: your-email@example.com  
+- 📧 Email: hitennalapatla@gmail.com 
 - 🔗 LinkedIn: [Add your LinkedIn link]  
 - 🌐 Portfolio: (Coming soon...)
 
