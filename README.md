@@ -31,7 +31,7 @@
 
 ### 📫 Connect With Me
 - 📧 Email: hitennalapatla@gmail.com 
-- 🔗 LinkedIn: [Add your LinkedIn link]  
+- 🔗 LinkedIn: [Coming soon....] 
 - 🌐 Portfolio: (Coming soon...)
 
 ---
