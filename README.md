@@ -1,46 +1,56 @@
-### 👋 Hello, I'm Hiten
+# 👋 Hi, I'm Hiten!
 
-🎓 B.Tech 2nd Year Student | 💻 Aspiring Software Engineer  
-📍 India | 🔍 Currently learning *Java, **DSA*, and building projects  
-📚 Passionate about clean code, real-world problem solving & backend development  
-🎯 Goal: Become a full-stack developer and land a ₹12 LPA+ role by graduation
+🎓 BTech 2nd Year AI & DS Student  
+👨‍💻 Passionate about Java, DSA & Data Analytics  
+🚀 On a journey to master software development and real-world data skills  
+📚 Following a roadmap focused on:
 
----
+- ✅ Java (Core, OOP, DSA)
+- ✅ Data Structures & Algorithms (LeetCode & Projects)
+- ✅ Data Analysis: Excel, SQL, Python (Pandas)
+- ✅ Data Visualization: Power BI
 
-### 💡 What I'm Working On
-- Sharpening my *Java* & *Python* skills  
-- Building a strong foundation in *Data Structures & Algorithms*  
-- Learning version control with *Git & GitHub*
-
----
-
-### 🚀 Tech Stack
-- *Languages:* Java, Python (Basics)
-- *Learning:* DSA, Git, Java OOPs
-- *Tools:* VS Code, GitHub Desktop
+🤓 Fun fact: I can spend hours debugging just to realize I missed a semicolon 😅
 
 ---
 
-### 📈 2025 Roadmap
-- ✅ Master Java fundamentals  
-- ✅ Solve 100+ DSA problems  
-- 🔄 Build 3+ real-world Java projects  
-- 🔜 Explore Web Development & System Design
+## 🔧 What I'm Working On
+
+- ✍ Completing *Java Day-wise DSA Practice*
+- 📈 Learning *Excel, SQL, Python (Pandas)* for Data Analysis
+- 📊 Exploring *Power BI* to build dashboards from real-world datasets
+- 💡 Planning mini-projects using *Java & DSV*
+- 📂 Building a professional GitHub portfolio with clean documentation
+- 💬 Improving problem-solving with *LeetCode* and daily Java questions
 
 ---
 
-### 📫 Connect With Me
-- 📧 Email: hitennalapatla@gmail.com 
-- 🔗 LinkedIn: [Coming soon....] 
-- 🌐 Portfolio: (Coming soon...)
+## 🎯 2025 Roadmap
+
+- 🚀 Master Java & Data Structures  
+- 📚 Learn Excel, SQL, Python (Pandas) for data analysis  
+- 📊 Build dashboards using Power BI  
+- 💻 Create Java + DSV mini projects  
+- 🧠 Practice DSA on LeetCode  
+- 🛠 Build GitHub profile & LinkedIn  
+- 🎯 Prepare for placements and mock interviews
 
 ---
 
-### 🎮 Fun Fact
-My aim in BGMI: Headshots.  
-My aim in life: ₹12 LPA.  
-And yes — I practice both daily. 🧠🎮💼
+## 💻 Tech Stack
+
+- ☕ Java  
+- 🐍 Python  
+- 🐬 MySQL  
+- 📊 Microsoft Excel  
+- 📈 Power BI  
+- 🧠 Pandas (Python Library)  
+- 🧑‍💻 Visual Studio Code  
+- 🛠 Git & GitHub
 
 ---
 
-“Great things never come from comfort zones.” 💪
+## 📫 Connect with Me
+
+- 🌐 LinkedIn: Coming Soon  
+- 📧 Email: [hitennalapatla@gmail.com](mailto:hitennalapatla@gmail.com)
